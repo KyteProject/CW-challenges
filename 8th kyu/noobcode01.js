@@ -3,7 +3,6 @@
 // superSize(105) // 510
 // superSize(12) // 21
 // If the argument passed through is single digit or is already the maximum possible integer, your function should simply return it.
-// https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/
 
 // solution
 function superSize(num) {

@@ -1,5 +1,4 @@
 // Simple, remove the spaces from the string, then return the resultant string.
-// https://www.codewars.com/kata/remove-string-spaces/
 
 // solutions
 const noSpace = x => x.replace(/\s+/gi, '');

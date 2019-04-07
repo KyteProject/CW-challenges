@@ -1,9 +1,11 @@
 // The code does not execute properly. Try to figure out why.
-// https://www.codewars.com/kata/multiply/
+
+// solutions
 function multiply(a, b) {
 	return a * b;
 }
 
+// tests
 describe('Solution', function() {
 	it('should test for something', function() {
 		// Test.assertEquals(1 + 1, 2);
