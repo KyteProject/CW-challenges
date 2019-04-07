@@ -1,6 +1,5 @@
 // The code does not execute properly. Try to figure out why.
-// https://www.codewars.com/kata/multiply/train/javascript
-
+// https://www.codewars.com/kata/multiply/
 function multiply(a, b) {
 	return a * b;
 }
