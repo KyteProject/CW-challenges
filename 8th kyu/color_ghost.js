@@ -6,7 +6,7 @@
 class Ghost {
 	constructor() {
 		this.colors = ['white', 'yellow', 'red', 'purple'];
-		this.color = this.colors[Math.floor(Math.random() * 4)];
+		this.color = this.colors[Math.floor(Math.random() * this.colors.length)];
 	}
 }
 
